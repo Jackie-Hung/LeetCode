@@ -1,2 +1,2 @@
-# LeetCode-in-JS
+# LeetCode
 Self practice in LeetCode problems using JavaScript
